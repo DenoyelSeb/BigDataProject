@@ -33,3 +33,4 @@ the study.
 depending on location.
 5. A dataset of french departments and their geographical location, to do a map of results
 grouped by department.
+Note: The notebook refers to five datasets, but only four are included in this repository. This is due to the fact that the version of the project archived here predates the final delivery version, in which a fifth dataset was added during the last stage of the work. The analysis and conclusions remain consistent.
